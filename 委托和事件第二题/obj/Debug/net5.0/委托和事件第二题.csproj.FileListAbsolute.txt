@@ -1,0 +1,16 @@
+E:\桌面\专业学习\C#\练习\委托和事件第二题\bin\Debug\net5.0\委托和事件第二题.exe
+E:\桌面\专业学习\C#\练习\委托和事件第二题\bin\Debug\net5.0\委托和事件第二题.deps.json
+E:\桌面\专业学习\C#\练习\委托和事件第二题\bin\Debug\net5.0\委托和事件第二题.runtimeconfig.json
+E:\桌面\专业学习\C#\练习\委托和事件第二题\bin\Debug\net5.0\委托和事件第二题.runtimeconfig.dev.json
+E:\桌面\专业学习\C#\练习\委托和事件第二题\bin\Debug\net5.0\委托和事件第二题.dll
+E:\桌面\专业学习\C#\练习\委托和事件第二题\bin\Debug\net5.0\ref\委托和事件第二题.dll
+E:\桌面\专业学习\C#\练习\委托和事件第二题\bin\Debug\net5.0\委托和事件第二题.pdb
+E:\桌面\专业学习\C#\练习\委托和事件第二题\obj\Debug\net5.0\委托和事件第二题.csprojAssemblyReference.cache
+E:\桌面\专业学习\C#\练习\委托和事件第二题\obj\Debug\net5.0\委托和事件第二题.GeneratedMSBuildEditorConfig.editorconfig
+E:\桌面\专业学习\C#\练习\委托和事件第二题\obj\Debug\net5.0\委托和事件第二题.AssemblyInfoInputs.cache
+E:\桌面\专业学习\C#\练习\委托和事件第二题\obj\Debug\net5.0\委托和事件第二题.AssemblyInfo.cs
+E:\桌面\专业学习\C#\练习\委托和事件第二题\obj\Debug\net5.0\委托和事件第二题.csproj.CoreCompileInputs.cache
+E:\桌面\专业学习\C#\练习\委托和事件第二题\obj\Debug\net5.0\委托和事件第二题.dll
+E:\桌面\专业学习\C#\练习\委托和事件第二题\obj\Debug\net5.0\ref\委托和事件第二题.dll
+E:\桌面\专业学习\C#\练习\委托和事件第二题\obj\Debug\net5.0\委托和事件第二题.pdb
+E:\桌面\专业学习\C#\练习\委托和事件第二题\obj\Debug\net5.0\委托和事件第二题.genruntimeconfig.cache

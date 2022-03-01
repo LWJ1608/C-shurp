@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "委托和事件第二题/1.0.0": {
+        "runtime": {
+          "委托和事件第二题.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "委托和事件第二题/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

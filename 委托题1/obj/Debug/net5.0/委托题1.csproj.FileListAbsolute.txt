@@ -1,0 +1,16 @@
+E:\桌面\专业学习\C#\练习\委托题1\bin\Debug\net5.0\委托题1.exe
+E:\桌面\专业学习\C#\练习\委托题1\bin\Debug\net5.0\委托题1.deps.json
+E:\桌面\专业学习\C#\练习\委托题1\bin\Debug\net5.0\委托题1.runtimeconfig.json
+E:\桌面\专业学习\C#\练习\委托题1\bin\Debug\net5.0\委托题1.runtimeconfig.dev.json
+E:\桌面\专业学习\C#\练习\委托题1\bin\Debug\net5.0\委托题1.dll
+E:\桌面\专业学习\C#\练习\委托题1\bin\Debug\net5.0\ref\委托题1.dll
+E:\桌面\专业学习\C#\练习\委托题1\bin\Debug\net5.0\委托题1.pdb
+E:\桌面\专业学习\C#\练习\委托题1\obj\Debug\net5.0\委托题1.csprojAssemblyReference.cache
+E:\桌面\专业学习\C#\练习\委托题1\obj\Debug\net5.0\委托题1.GeneratedMSBuildEditorConfig.editorconfig
+E:\桌面\专业学习\C#\练习\委托题1\obj\Debug\net5.0\委托题1.AssemblyInfoInputs.cache
+E:\桌面\专业学习\C#\练习\委托题1\obj\Debug\net5.0\委托题1.AssemblyInfo.cs
+E:\桌面\专业学习\C#\练习\委托题1\obj\Debug\net5.0\委托题1.csproj.CoreCompileInputs.cache
+E:\桌面\专业学习\C#\练习\委托题1\obj\Debug\net5.0\委托题1.dll
+E:\桌面\专业学习\C#\练习\委托题1\obj\Debug\net5.0\ref\委托题1.dll
+E:\桌面\专业学习\C#\练习\委托题1\obj\Debug\net5.0\委托题1.pdb
+E:\桌面\专业学习\C#\练习\委托题1\obj\Debug\net5.0\委托题1.genruntimeconfig.cache
