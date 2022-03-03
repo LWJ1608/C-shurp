@@ -1,0 +1,17 @@
+E:\桌面\专业学习\C#\练习\显示成绩等级\bin\Debug\net5.0-windows\显示成绩等级.exe
+E:\桌面\专业学习\C#\练习\显示成绩等级\bin\Debug\net5.0-windows\显示成绩等级.deps.json
+E:\桌面\专业学习\C#\练习\显示成绩等级\bin\Debug\net5.0-windows\显示成绩等级.runtimeconfig.json
+E:\桌面\专业学习\C#\练习\显示成绩等级\bin\Debug\net5.0-windows\显示成绩等级.runtimeconfig.dev.json
+E:\桌面\专业学习\C#\练习\显示成绩等级\bin\Debug\net5.0-windows\显示成绩等级.dll
+E:\桌面\专业学习\C#\练习\显示成绩等级\bin\Debug\net5.0-windows\ref\显示成绩等级.dll
+E:\桌面\专业学习\C#\练习\显示成绩等级\bin\Debug\net5.0-windows\显示成绩等级.pdb
+E:\桌面\专业学习\C#\练习\显示成绩等级\obj\Debug\net5.0-windows\显示成绩等级.Form1.resources
+E:\桌面\专业学习\C#\练习\显示成绩等级\obj\Debug\net5.0-windows\显示成绩等级.csproj.GenerateResource.cache
+E:\桌面\专业学习\C#\练习\显示成绩等级\obj\Debug\net5.0-windows\显示成绩等级.GeneratedMSBuildEditorConfig.editorconfig
+E:\桌面\专业学习\C#\练习\显示成绩等级\obj\Debug\net5.0-windows\显示成绩等级.AssemblyInfoInputs.cache
+E:\桌面\专业学习\C#\练习\显示成绩等级\obj\Debug\net5.0-windows\显示成绩等级.AssemblyInfo.cs
+E:\桌面\专业学习\C#\练习\显示成绩等级\obj\Debug\net5.0-windows\显示成绩等级.csproj.CoreCompileInputs.cache
+E:\桌面\专业学习\C#\练习\显示成绩等级\obj\Debug\net5.0-windows\显示成绩等级.dll
+E:\桌面\专业学习\C#\练习\显示成绩等级\obj\Debug\net5.0-windows\ref\显示成绩等级.dll
+E:\桌面\专业学习\C#\练习\显示成绩等级\obj\Debug\net5.0-windows\显示成绩等级.pdb
+E:\桌面\专业学习\C#\练习\显示成绩等级\obj\Debug\net5.0-windows\显示成绩等级.genruntimeconfig.cache

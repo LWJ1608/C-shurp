@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "计算圆的周长和面积/1.0.0": {
+        "runtime": {
+          "计算圆的周长和面积.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "计算圆的周长和面积/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

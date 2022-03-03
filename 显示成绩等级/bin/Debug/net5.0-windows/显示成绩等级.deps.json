@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "显示成绩等级/1.0.0": {
+        "runtime": {
+          "显示成绩等级.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "显示成绩等级/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

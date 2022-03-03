@@ -1,0 +1,17 @@
+E:\桌面\专业学习\C#\练习\计算圆的周长和面积\bin\Debug\net5.0-windows\计算圆的周长和面积.exe
+E:\桌面\专业学习\C#\练习\计算圆的周长和面积\bin\Debug\net5.0-windows\计算圆的周长和面积.deps.json
+E:\桌面\专业学习\C#\练习\计算圆的周长和面积\bin\Debug\net5.0-windows\计算圆的周长和面积.runtimeconfig.json
+E:\桌面\专业学习\C#\练习\计算圆的周长和面积\bin\Debug\net5.0-windows\计算圆的周长和面积.runtimeconfig.dev.json
+E:\桌面\专业学习\C#\练习\计算圆的周长和面积\bin\Debug\net5.0-windows\计算圆的周长和面积.dll
+E:\桌面\专业学习\C#\练习\计算圆的周长和面积\bin\Debug\net5.0-windows\ref\计算圆的周长和面积.dll
+E:\桌面\专业学习\C#\练习\计算圆的周长和面积\bin\Debug\net5.0-windows\计算圆的周长和面积.pdb
+E:\桌面\专业学习\C#\练习\计算圆的周长和面积\obj\Debug\net5.0-windows\计算圆的周长和面积.Form1.resources
+E:\桌面\专业学习\C#\练习\计算圆的周长和面积\obj\Debug\net5.0-windows\计算圆的周长和面积.csproj.GenerateResource.cache
+E:\桌面\专业学习\C#\练习\计算圆的周长和面积\obj\Debug\net5.0-windows\计算圆的周长和面积.GeneratedMSBuildEditorConfig.editorconfig
+E:\桌面\专业学习\C#\练习\计算圆的周长和面积\obj\Debug\net5.0-windows\计算圆的周长和面积.AssemblyInfoInputs.cache
+E:\桌面\专业学习\C#\练习\计算圆的周长和面积\obj\Debug\net5.0-windows\计算圆的周长和面积.AssemblyInfo.cs
+E:\桌面\专业学习\C#\练习\计算圆的周长和面积\obj\Debug\net5.0-windows\计算圆的周长和面积.csproj.CoreCompileInputs.cache
+E:\桌面\专业学习\C#\练习\计算圆的周长和面积\obj\Debug\net5.0-windows\计算圆的周长和面积.dll
+E:\桌面\专业学习\C#\练习\计算圆的周长和面积\obj\Debug\net5.0-windows\ref\计算圆的周长和面积.dll
+E:\桌面\专业学习\C#\练习\计算圆的周长和面积\obj\Debug\net5.0-windows\计算圆的周长和面积.pdb
+E:\桌面\专业学习\C#\练习\计算圆的周长和面积\obj\Debug\net5.0-windows\计算圆的周长和面积.genruntimeconfig.cache
